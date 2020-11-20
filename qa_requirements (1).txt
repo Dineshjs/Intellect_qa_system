@@ -1,0 +1,3 @@
+ktrain==0.25.0
+PDF-Layout-Scanner==1.3.3
+pdfminer.six==20201018
